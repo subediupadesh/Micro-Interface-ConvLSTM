@@ -1,6 +1,4 @@
-# MODEL II
-# Simulation of iron-chromium alloy decomposition using simplified conditions. 
-#
+
 
 [Mesh]
   type = GeneratedMesh
