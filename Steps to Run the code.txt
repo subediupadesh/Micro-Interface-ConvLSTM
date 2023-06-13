@@ -1,4 +1,5 @@
-Read and Follow following steps
+Read and Follow following steps inside every directory.
+
 Step 0: Follow instruction in Step_0_phase_field_simulations folder
 Step 1: Follow instruction in Step_1_train_test_data folder
 Step 2: Follow instruction in Step_2_model_development folder
