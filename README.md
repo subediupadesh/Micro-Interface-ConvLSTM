@@ -1,6 +1,6 @@
 # Micro-Interface-ConvLSTM
 
-Read and Follow following steps inside every directory.
+## Read and Follow following steps inside every directory.
 
 Step 0: Follow instructions in Step_0_phase_field_simulations folder
 
