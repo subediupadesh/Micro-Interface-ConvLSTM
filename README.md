@@ -1,4 +1,4 @@
-# Micro-Interface-ConvLSTM
+# Application of Computer Vision for Learning the Patterns at Microstructures and their Interfaces
 
 ## Read and Follow following steps inside every directory.
 
