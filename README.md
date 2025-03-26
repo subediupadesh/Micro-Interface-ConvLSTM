@@ -1,6 +1,6 @@
 # Application of Computer Vision for Learning the Patterns at Microstructures and their Interfaces
 
-## Steps of Integrated Phase Field Simulations and Machine Learning Techniques.
+## Steps on Integration of Phase Field Simulations with Machine Learning Techniques.
 
 Step 0: Follow instructions in Step_0_phase_field_simulations folder
 
